@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9d0b466-6319-43ec-89d3-d448f734a7f4" name="Changes" comment="Add the items using append, insert and extended">
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26062024/Lab036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26062024/Lab037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26062024/Lab038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26062024/Lab039.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex_24062024/Lab030.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_24062024/Lab030.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex_24062024/Lab031.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_24062024/Lab031.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex_24062024/Lab032.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_24062024/Lab032.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex_24062024/Lab033.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_24062024/Lab033.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex_24062024/Lab034.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_24062024/Lab034.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_24062024/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_24062024/lists.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +63,9 @@
     "Python.Lab033.executor": "Run",
     "Python.Lab034.executor": "Run",
     "Python.Lab035.executor": "Run",
+    "Python.Lab036.executor": "Run",
+    "Python.Lab037.executor": "Run",
+    "Python.Lab039.executor": "Run",
     "Python.Tuple.executor": "Run",
     "Python.lists.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -69,8 +73,8 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Tuple">
-    <configuration name="Lab033" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab039">
+    <configuration name="Lab036" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3XATB-MJJ" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_24062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_24062024/Lab033.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26062024/Lab036.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab034" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab037" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3XATB-MJJ" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_24062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_24062024/Lab034.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26062024/Lab037.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab035" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab039" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3XATB-MJJ" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_24062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_24062024/Lab035.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26062024/Lab039.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab039" />
+        <item itemvalue="Python.Lab037" />
+        <item itemvalue="Python.Lab036" />
         <item itemvalue="Python.Tuple" />
         <item itemvalue="Python.lists" />
-        <item itemvalue="Python.Lab035" />
-        <item itemvalue="Python.Lab034" />
-        <item itemvalue="Python.Lab033" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719163227470</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add the items using append, insert and extended">
+      <option name="closed" value="true" />
+      <created>1719343928074</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719343928074</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

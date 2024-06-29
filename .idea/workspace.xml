@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9d0b466-6319-43ec-89d3-d448f734a7f4" name="Changes" comment="Add the items using append, insert and extended">
-      <change afterPath="$PROJECT_DIR$/26062024/Lab036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26062024/Lab037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26062024/Lab038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26062024/Lab039.py" afterDir="false" />
+    <list default="true" id="d9d0b466-6319-43ec-89d3-d448f734a7f4" name="Changes" comment="Class and Objects">
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab040.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_24062024/Lab030.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_24062024/Lab030.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_24062024/Lab031.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_24062024/Lab031.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_24062024/Lab032.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_24062024/Lab032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_24062024/Lab033.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_24062024/Lab033.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_24062024/Lab034.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_24062024/Lab034.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26062024/Lab036.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26062024/Lab036.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26062024/Lab037.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26062024/Lab037.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26062024/Lab038.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26062024/Lab038.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26062024/Lab039.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26062024/Lab039.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +246,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719343928074</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Class and Objects">
+      <option name="closed" value="true" />
+      <created>1719686480301</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719686480301</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Class and Objects">
+      <option name="closed" value="true" />
+      <created>1719686563696</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719686563696</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,6 +270,7 @@
     <MESSAGE value="First Python program" />
     <MESSAGE value="List Programs" />
     <MESSAGE value="Add the items using append, insert and extended" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add the items using append, insert and extended" />
+    <MESSAGE value="Class and Objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class and Objects" />
   </component>
 </project>

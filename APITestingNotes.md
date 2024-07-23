@@ -102,6 +102,35 @@ Below are the key topics to learn in Python, organized as bullet points for easy
 * How to see the Report of the PyTest Testcases?
 * Make sure that allure commandline is installed
 * Download the Node JS
+
+## Pytest
+
+python -m pytest is used to run tests using the pytest framework in Python. Let's break down what each part of the command does:
+
+python: This invokes the Python interpreter. It ensures that the subsequent command (-m pytest) is executed within the Python environment.
+
+-m: This option stands for "module". It allows you to run a module as a script. When used with python -m, it tells Python to run the specified module as if it were a standalone script.
+
+pytest: This is the name of the module or package that Python will run. In this case, pytest refers to the pytest testing framework for Python.
+
+When you execute python -m pytest, here's what happens step by step:
+
+Python Interpreter: First, the python command starts the Python interpreter.
+
+-m Option: The -m option tells Python to run a module as a script.
+
+pytest Module: The pytest module is then executed. pytest is a testing framework that will look for test files and functions within the current directory and its subdirectories.
+
+Test Discovery and Execution: pytest will automatically discover files and functions that follow its conventions for test discovery (files named test_*.py or methods named test_*). It will then run these tests and report the results in the console.
+
+Summary:
+Purpose: To run tests written using the pytest framework.
+Usage: python -m pytest is entered in the command line in the directory where your test files (test_*.py) are located.
+Result: pytest will find and execute all test functions within those files, showing the test results (successes, failures, and errors) in the console output.
+This command is commonly used in Python projects that utilize pytest for testing because it ensures that pytest runs within the correct Python environment and can find the necessary test files and functions automatically.
+
+
+
 * node -v
 * npm install -g npm allure-commandline
 * Verify that allure -> options

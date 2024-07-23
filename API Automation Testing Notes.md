@@ -90,12 +90,14 @@ Below are the key topics to learn in Python, organized as bullet points for easy
 * run icon
 ## PyTest Commands
 * pytest -h (If you wanted to know about history )
-* To run all the testcases
-* pytest
-* To run specific testcase
-* pytest ex02_July/22072024/test_Lab181.py
+* To run all the testcases we use **-pytest**  command
+* To run specific testcase **-pytest ex02_July/22072024/test_Lab181.py** or you can right click on python file and click on "Copy/Path References --> Path From Content Root"
 * To run specific testcase with pattern
-* pytest -k "18"
+  ### pytest -k "add"
+1. This command runs all tests whose names contain the substring "add". For example, it would run tests like test_addition, test_add_numbers, etc.
+
+
+  
 * To run a specific marked Testcase
 * Add a annotation @pytest.mark.regression
 * pytest -m "regression" ex02_July/22072024/test_Lab182.py

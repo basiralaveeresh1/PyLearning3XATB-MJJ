@@ -80,31 +80,3 @@ Below are the key topics to learn in Python, organized as bullet points for easy
 ## Basic Git Commands
 * Branching and Merging
 * Collaborating with GitHub
-### How to Work with the PyTest?
-* pip install pytest
-* File name - test_name.py
-* Test name - test_name_of_test():
-* Assert - Actual Result == Expected Result.
-* How to run the PyTest?
-* open cmd ->go the the folder - pytest
-* run icon
-* PyTest Commands
-* pytest -h
-* To run all the testcases
-* pytest
-* To run specific testcase
-* pytest ex02_July/22072024/test_Lab181.py
-* To run specific testcase with pattern
-* pytest -k "18"
-* To run a specific marked Testcase
-* Add a annotation @pytest.mark.regression
-* pytest -m "regression" ex02_July/22072024/test_Lab182.py
-* How to see the Report of the PyTest Testcases?
-* Make sure that allure commandline is installed
-* Download the Node JS
-* node -v
-* npm install -g npm allure-commandline
-* Verify that allure -> options
-* Run your Pytestcase - pytest ex02_July/22072024/test_Lab183.py --alluredir=allure_result
-* allure serve allure_result
-* 

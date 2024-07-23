@@ -92,12 +92,13 @@ Below are the key topics to learn in Python, organized as bullet points for easy
 * pytest -h (If you wanted to know about history )
 * To run all the testcases we use **pytest**  command
 * To run specific testcase **-pytest ex02_July/22072024/test_Lab181.py** or you can right click on python file and click on "Copy/Path References --> Path From Content Root"
-* To run specific testcase with pattern
+  
   ### pytest -k "add"
 1. This command runs all tests whose names contain the substring "add". For example, it would run tests like test_addition, test_add_numbers, etc.
-
-
   
+*  pytest -k "05" --> if we use -k then i will be the contains function. Whicherver the test case contains with 05 all the test cases are executed.
+*  pytest - "test_057 and not test_Lab058" --> This will execute only test_057 and deselected the test_058. (test_Lab058 fill will not exectued. because we passed in the contains fucntions like not test_Lab058)
+*  pytest -k "test_057 or test_Lab058" --> Both the test cases are executed
 * To run a specific marked Testcase
 * Add a annotation @pytest.mark.regression
 * pytest -m "regression" ex02_July/22072024/test_Lab182.py

@@ -11,13 +11,25 @@ class Car:
     password = 123
 
     def __init__(self):
-        print("I am callinig this method when m=object is created")
+        self.public_var = "public"
+        self.__private_var = "private"
+        self._protected_var = "protected"
 
-    # def password_change(self):
-    #     self.password = 321
-    #     print(self.password)
 
+    def __private_method(self):
+        print("Inside Private Method")
+
+
+    def public_method(self):
+        print("Inside Public Method")
+        print(self.__private_var)
+        print(self._protected_var)
+        print(self.public_var)
+        self.__private_method()
 
 car1 = Car()
-car1.password = 987
-print(car1.password)
+# car1.password = 987
+# print(car1.password)
+# print(car1.password_change())
+
+car1.public_method()

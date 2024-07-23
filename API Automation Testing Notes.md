@@ -88,8 +88,8 @@ Below are the key topics to learn in Python, organized as bullet points for easy
 * How to run the PyTest?
 * open cmd ->go the the folder - pytest
 * run icon
-* PyTest Commands
-* pytest -h
+## PyTest Commands
+* pytest -h (If you wanted to know about history )
 * To run all the testcases
 * pytest
 * To run specific testcase
@@ -136,4 +136,6 @@ This command is commonly used in Python projects that utilize pytest for testing
 * Verify that allure -> options
 * Run your Pytestcase - pytest ex02_July/22072024/test_Lab183.py --alluredir=allure_result
 * allure serve allure_result
-* 
+
+  ## Pytest Commands
+  --> pytest

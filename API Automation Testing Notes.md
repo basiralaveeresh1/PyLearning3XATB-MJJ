@@ -90,7 +90,7 @@ Below are the key topics to learn in Python, organized as bullet points for easy
 * run icon
 ## PyTest Commands
 * pytest -h (If you wanted to know about history )
-* To run all the testcases we use **-pytest**  command
+* To run all the testcases we use **pytest**  command
 * To run specific testcase **-pytest ex02_July/22072024/test_Lab181.py** or you can right click on python file and click on "Copy/Path References --> Path From Content Root"
 * To run specific testcase with pattern
   ### pytest -k "add"
@@ -139,5 +139,3 @@ This command is commonly used in Python projects that utilize pytest for testing
 * Run your Pytestcase - pytest ex02_July/22072024/test_Lab183.py --alluredir=allure_result
 * allure serve allure_result
 
-  ## Pytest Commands
-  --> pytest

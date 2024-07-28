@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9d0b466-6319-43ec-89d3-d448f734a7f4" name="Changes" comment="Added the testing notes in the MD files">
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/test_Lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/test_Lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/test_Lab059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/test_Lab60_AllureReports.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/test_sub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/locatorsExaples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/test_Locators2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/test_Locators3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/test_seleniumTest2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_24072024/test_Lab061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_24072024/test_Lab062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_24072024/test_Lab063.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APITestingNotes.MD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/test_Lab056.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/test_Lab056.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_01072024/seleniumTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_01072024/seleniumTest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +59,20 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for Locators2.test_vwologin_negative_tc.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_Lab056.test_addition.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_Lab056.test_multiplication.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab061.test_get_second_request_by_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab061.test_get_single_request_by_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab61.test_get_single_request_by_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Locators2.test_vwologin_negative_tc.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Locators3.test_katalon_login.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_sub.test_sub.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Locators2.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_Lab056.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_Lab057.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab61.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Locators2.py.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab001.executor&quot;: &quot;Debug&quot;,
     &quot;Python.Lab030.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab031.executor&quot;: &quot;Run&quot;,
@@ -93,7 +100,9 @@
     &quot;Python.Lab48.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tuple.executor&quot;: &quot;Run&quot;,
     &quot;Python.lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.locatorsExaples.executor&quot;: &quot;Run&quot;,
     &quot;Python.seleniumTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.seleniumTest2.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
@@ -101,92 +110,101 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\veere\PycharmProjects\PyLearning3XATB-MJJ\Ex_July_2024_APIAutomation_Testing" />
+      <recent name="C:\Users\veere\PycharmProjects\PyLearning3XATB-MJJ\Ex_July_2024_APIAutomation_Testing\Ex_22072024" />
       <recent name="C:\Users\veere\PycharmProjects\PyLearning3XATB-MJJ" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_Lab057.py">
-    <configuration name="Python tests for test_Lab056.test_addition" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_Locators3.test_katalon_login">
+    <configuration name="locatorsExaples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3XATB-MJJ" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_01072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_01072024/locatorsExaples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Ex_01072024.test_Locators2.test_vwologin_negative_tc" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3XATB-MJJ" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_01072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab056.test_addition&quot;" />
+      <option name="_new_target" value="&quot;Ex_01072024.test_Locators2.test_vwologin_negative_tc&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab056.test_multiplication" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Locators2.test_vwologin_negative_tc" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3XATB-MJJ" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_01072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab056.test_multiplication&quot;" />
+      <option name="_new_target" value="&quot;test_Locators2.test_vwologin_negative_tc&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_sub.test_sub" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Locators3.test_katalon_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3XATB-MJJ" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_01072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_sub.test_sub&quot;" />
+      <option name="_new_target" value="&quot;test_Locators3.test_katalon_login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_Lab056.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_Locators2.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3XATB-MJJ" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_01072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/test_Lab056.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in test_Lab057.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyLearning3XATB-MJJ" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/test_Lab057.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Ex_01072024/test_Locators2.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_Lab057.py" />
-        <item itemvalue="Python tests.Python tests for test_sub.test_sub" />
-        <item itemvalue="Python tests.Python tests for test_Lab056.test_multiplication" />
-        <item itemvalue="Python tests.Python tests for test_Lab056.test_addition" />
-        <item itemvalue="Python tests.Python tests in test_Lab056.py" />
+        <item itemvalue="Python tests.Python tests for test_Locators3.test_katalon_login" />
+        <item itemvalue="Python tests.Python tests for test_Locators2.test_vwologin_negative_tc" />
+        <item itemvalue="Python tests.Python tests in test_Locators2.py" />
+        <item itemvalue="Python tests.Python tests for Ex_01072024.test_Locators2.test_vwologin_negative_tc" />
+        <item itemvalue="Python.locatorsExaples" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721695245803</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added the testing notes in the MD files">
+      <option name="closed" value="true" />
+      <created>1721841000458</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721841000458</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

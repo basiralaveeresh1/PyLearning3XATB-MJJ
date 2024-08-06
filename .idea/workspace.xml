@@ -4,16 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9d0b466-6319-43ec-89d3-d448f734a7f4" name="Changes" comment="Allure Reports for Selenium">
-      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_24072024/test_Lab064.py" afterDir="false" />
+    <list default="true" id="d9d0b466-6319-43ec-89d3-d448f734a7f4" name="Changes" comment="CRUD">
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_26072024/Integration_Testing_API/test_Lab066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_26072024/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_26072024/test_Lab067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_26072024/test_Lab068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_26072024/test_Lab069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_26072024/test_Lab070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_26072024/test_Lab071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_26072024/test_Lab072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_26072024/test_Lab073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_26072024/test_Lab074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_26072024/test_Lab075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_26072024/test_Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_26072024/testdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_26072024/userdata.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_24072024/test_Lab061.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_24072024/test_Lab061.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/test_Lab056.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_22072024/test_Lab056.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/test_Lab057.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_22072024/test_Lab057.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/test_Lab058.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_22072024/test_Lab058.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/test_Lab059.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_22072024/test_Lab059.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/test_Lab60_AllureReports.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_22072024/test_Lab60_AllureReports.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/test_sub.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_22072024/test_sub.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +73,7 @@
     &quot;Python tests.Python tests for test_Lab061.test_get_single_request_by_id.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_Lab061.test_get_single_request_by_id_negative.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_Lab064.test_Get_User_Details.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab065.test_delete.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_Lab61.test_get_single_request_by_id.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_Locators2.test_vwologin_negative_tc.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_Locators3.test_katalon_login.executor&quot;: &quot;Run&quot;,
@@ -75,6 +82,7 @@
     &quot;Python tests.Python tests in test_Lab056.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_Lab057.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_Lab061.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab069.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_Lab61.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_Locators2.py.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab001.executor&quot;: &quot;Debug&quot;,
@@ -114,12 +122,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\veere\PycharmProjects\PyLearning3XATB-MJJ\Ex_July_2024_APIAutomation_Testing\Ex_26072024\Integration_Testing_API" />
       <recent name="C:\Users\veere\PycharmProjects\PyLearning3XATB-MJJ\Ex_July_2024_APIAutomation_Testing\Ex_22072024" />
       <recent name="C:\Users\veere\PycharmProjects\PyLearning3XATB-MJJ\Ex_July_2024_APIAutomation_Testing" />
       <recent name="C:\Users\veere\PycharmProjects\PyLearning3XATB-MJJ" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab065.test_delete">
+  <component name="RunManager" selected="Python tests.Python tests in test_Lab069.py">
     <configuration name="Python tests for test_Lab061.test_get_single_request_by_id" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3XATB-MJJ" />
       <option name="ENV_FILES" value="" />
@@ -147,21 +156,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_Lab061.test_get_single_request_by_id_negative&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Lab064.test_Get_User_Details" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyLearning3XATB-MJJ" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_24072024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab064.test_Get_User_Details&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -195,13 +189,28 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in test_Lab069.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3XATB-MJJ" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_26072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Ex_July_2024_APIAutomation_Testing/Ex_26072024/test_Lab069.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_Lab069.py" />
         <item itemvalue="Python tests.Python tests for test_Lab065.test_delete" />
         <item itemvalue="Python tests.Python tests in test_Lab061.py" />
         <item itemvalue="Python tests.Python tests for test_Lab061.test_get_single_request_by_id_negative" />
         <item itemvalue="Python tests.Python tests for test_Lab061.test_get_single_request_by_id" />
-        <item itemvalue="Python tests.Python tests for test_Lab064.test_Get_User_Details" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722153399487</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="CRUD">
+      <option name="closed" value="true" />
+      <created>1722963938169</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1722963938169</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,6 +351,7 @@
     <MESSAGE value="Constructors and Functions with arguments and without arguments with realtime project" />
     <MESSAGE value="Added the testing notes in the MD files" />
     <MESSAGE value="Allure Reports for Selenium" />
-    <option name="LAST_COMMIT_MESSAGE" value="Allure Reports for Selenium" />
+    <MESSAGE value="CRUD" />
+    <option name="LAST_COMMIT_MESSAGE" value="CRUD" />
   </component>
 </project>

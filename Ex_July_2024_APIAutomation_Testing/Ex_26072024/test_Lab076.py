@@ -1,6 +1,6 @@
 import csv
-import pandas
-import pandas as pd
+#import pandas
+#import pandas as pd
 
 # pip install pandas
 class Test_CRUD(object):
